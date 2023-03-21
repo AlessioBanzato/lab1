@@ -4,3 +4,4 @@ nuova riga
 sviluppatore 2
 =======
 >>>>>>> cfe85501212c318c013cb7656d42b5ceaf82c185
+altra riga
